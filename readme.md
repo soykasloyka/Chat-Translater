@@ -1,4 +1,4 @@
-# Auto chat translater
+# Auto chat translator
 
 
 The script auto translates words or sentances directly in source-code editor console.
